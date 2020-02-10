@@ -1,2 +1,3 @@
 # ffmpeg-win-batchfile
-# this project uses the ffmpeg.exe to manipulate media
+
+a collection of batch files that use ffmpeg.exe, ffplay.exe, ffprobe.exe to manipulate video and audio media 
