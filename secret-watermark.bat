@@ -1,0 +1,1 @@
+ffmpeg -i comply.mp4 -i watermark-image.png -filter_complex "overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2+450" secret-watermark.mp4 -y
